@@ -1,0 +1,10 @@
+﻿  option.cpp
+j:\mccゲーム\test\option.cpp(160): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+j:\mccゲーム\test\option.cpp(171): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  map.cpp
+  main.cpp
+  GameMain.cpp
+  コードを生成中...
+j:\mccゲーム\test\main.cpp(23): warning C4715: 'WinMain': 値を返さないコントロール パスがあります。
+j:\mccゲーム\test\option.cpp(294): warning C4715: 'CheckMap': 値を返さないコントロール パスがあります。
+  test.vcxproj -> J:\MCCゲーム\test\x64\Debug\test.exe
